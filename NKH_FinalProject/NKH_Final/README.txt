@@ -1,5 +1,5 @@
 =======================================================
-  NKH TUTION MANAGEMENT SYSTEM - SETUP INSTRUCTIONS
+  NKH(Next-gen Knowledge Hub) TUTION MANAGEMENT SYSTEM - SETUP INSTRUCTIONS
 =======================================================
 
 WHAT'S BEEN FIXED / ADDED:
